@@ -79,7 +79,11 @@ function NewQuoteButton({ current, quotes, setQuote }) {
 
 function SocialButtons({ quote }) {
   return (
-    <a target="_blank" href={"https://twitter.com/intent/tweet?text=" + quote}>
+    <a
+      id="tweet-quote"
+      target="_blank"
+      href={"https://twitter.com/intent/tweet?text=" + quote}
+    >
       <button type="button" class="btn btn-info">
         <FontAwesomeIcon icon={faTwitter} />
       </button>
