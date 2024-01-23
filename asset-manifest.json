@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.3c935258.css",
-    "main.js": "/react/static/js/main.1497741a.js",
-    "static/js/787.ece8cc3c.chunk.js": "/react/static/js/787.ece8cc3c.chunk.js",
-    "index.html": "/react/index.html",
-    "main.3c935258.css.map": "/react/static/css/main.3c935258.css.map",
-    "main.1497741a.js.map": "/react/static/js/main.1497741a.js.map",
-    "787.ece8cc3c.chunk.js.map": "/react/static/js/787.ece8cc3c.chunk.js.map"
+    "main.css": "/react-random-quote-fcc/static/css/main.3c935258.css",
+    "main.js": "/react-random-quote-fcc/static/js/main.621bd37a.js",
+    "static/js/787.ece8cc3c.chunk.js": "/react-random-quote-fcc/static/js/787.ece8cc3c.chunk.js",
+    "index.html": "/react-random-quote-fcc/index.html",
+    "main.3c935258.css.map": "/react-random-quote-fcc/static/css/main.3c935258.css.map",
+    "main.621bd37a.js.map": "/react-random-quote-fcc/static/js/main.621bd37a.js.map",
+    "787.ece8cc3c.chunk.js.map": "/react-random-quote-fcc/static/js/787.ece8cc3c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c935258.css",
-    "static/js/main.1497741a.js"
+    "static/js/main.621bd37a.js"
   ]
 }
